@@ -1,2 +1,5 @@
-# Teste Projeto
- Primeiro Repositorio 
+# Olá Mundo
+ Primeiro Repositorio do curso de GitHub
+
+ Repositório criado durante uma aula ao vivo.
+ 
